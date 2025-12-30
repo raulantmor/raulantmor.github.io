@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Custom text colors ===== */
+
+body {
+  color: #222222;   /* main text */
+}
+
+h1, h2, h3, h4 {
+  color: #111111;   /* headings */
+}
+
+a {
+  color: #0033aa;   /* links */
+}
+
+a:hover {
+  color: #0055ff;
+}
+
+.site-title {
+  color: #111111;
+}
+
+.site-description {
+  color: #555555;
+}
