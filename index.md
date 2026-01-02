@@ -6,3 +6,6 @@ I am a graduate student at the University of Washington working under Dr. Dale D
 - Machine learning for weather and climate
 - Extreme weather forecasting
 - Hybrid AI–physics models
+
+## CV
+[Download my CV](cv_2026.pdf)
