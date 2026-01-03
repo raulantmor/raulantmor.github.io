@@ -1,5 +1,3 @@
-layout: default
-title: Inicio
 permalink: /es/
 
 ## ¡Hola!
